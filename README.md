@@ -45,4 +45,4 @@ Para ejecutar correctamente el sistema en AWS, deben seguirse los siguientes pas
 Guillermo Martín Rufino  
 Universidad Pontificia de Salamanca  
 Ingeniería Informática 
-Curso académico 2024/2025
+Curso académico 2024–2025
