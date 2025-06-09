@@ -1,6 +1,6 @@
 # Sistema de gestión de tareas personales en AWS utilizando arquitectura serverless
 
-Este repositorio contiene el código fuente del Trabajo de Fin de Grado titulado “Sistema de gestión de tareas personales en AWS utilizando arquitectura serverless”, desarrollado por Guillermo Martín Rufino en la Universidad Pontificia de Salamanca, Facultad de Informática, durante el curso académico 2024–2025.
+Este repositorio contiene el código fuente del Trabajo de Fin de Grado titulado “Diseño e implementación de un sistema serverless en AWS para la gestión de tareas personales”, desarrollado por Guillermo Martín Rufino en la Universidad Pontificia de Salamanca, Facultad de Informática, durante el curso académico 2024–2025.
 
 ## Descripción general del proyecto
 
